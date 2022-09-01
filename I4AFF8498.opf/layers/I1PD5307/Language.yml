@@ -1,0 +1,119 @@
+id: fb1022bbde674832bf4bc23dcf811b33
+annotation_type: Language
+revision: '00001'
+annotations:
+  a90dc90310194916a97e70c947359b75:
+    span:
+      start: 39
+      end: 176
+    language: en
+  e87a7ea807a04646a38520f73963fd85:
+    span:
+      start: 233
+      end: 289
+    language: en
+  020353ea37e34282a34f0036f6521ca3:
+    span:
+      start: 368
+      end: 710
+    language: en
+  0c81eb96bb344f45b027ca82a53f9262:
+    span:
+      start: 714
+      end: 30323
+    language: zh
+  74d05d6dc8024107948332dd4a735475:
+    span:
+      start: 30350
+      end: 31292
+    language: zh
+  e016093e37a241eaaa22d03bfa464cfd:
+    span:
+      start: 31359
+      end: 33173
+    language: zh
+  93e1916813eb4f899b366ec1201a6dc0:
+    span:
+      start: 33414
+      end: 35181
+    language: zh
+  c512b645a60747d3af67842d7239b728:
+    span:
+      start: 35204
+      end: 36124
+    language: zh
+  4d012167c975422fa05492b0463c0145:
+    span:
+      start: 36152
+      end: 41801
+    language: zh
+  7070cf0f1b164f868e6a85dd03fd7b80:
+    span:
+      start: 41975
+      end: 42324
+    language: zh
+  73a80e031c1f4a2eb16cfca2441e446f:
+    span:
+      start: 42377
+      end: 42469
+    language: zh
+  b3e461bc758f4ae1ae8d095e6800f3a7:
+    span:
+      start: 42555
+      end: 42616
+    language: zh
+  e6a64a3cdd954e8086046a8699b020f9:
+    span:
+      start: 42698
+      end: 42749
+    language: zh
+  071b81519ba048879a205f8c6c3224e0:
+    span:
+      start: 42904
+      end: 42933
+    language: zh
+  f89104ed4d504cdbac8009cca016b242:
+    span:
+      start: 43064
+      end: 43091
+    language: zh
+  7228f9e729654b8b8de31480980165b2:
+    span:
+      start: 43279
+      end: 43318
+    language: zh
+  5e237a7142b04d448c547f1dd358e22b:
+    span:
+      start: 43459
+      end: 43488
+    language: zh
+  447e33fead824b0a86d974552d2efa6b:
+    span:
+      start: 43679
+      end: 43907
+    language: zh
+  05e6f2d4168c4ab9ad0e92912a992cbd:
+    span:
+      start: 43971
+      end: 44005
+    language: zh
+  be903323a43e41f7a3156f072aeca370:
+    span:
+      start: 44161
+      end: 44263
+    language: zh
+  e024028fc48c4a3bbe4d47ca08f4e931:
+    span:
+      start: 44295
+      end: 44747
+    language: zh
+  01d69f71b70e4774b68f2837622c01f4:
+    span:
+      start: 44771
+      end: 44793
+    language: zh
+  e7ddade00a82483ea9718169b17038b8:
+    span:
+      start: 44862
+      end: 107811
+    language: zh
